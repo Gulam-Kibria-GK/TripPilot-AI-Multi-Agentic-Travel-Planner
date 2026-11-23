@@ -1,4 +1,4 @@
-# TripPilot AI – Multi-Agentic Travel Planner
+# TripPilot AI – Multi Agentic Travel Planner
 
 ## How to Run the Project
 
